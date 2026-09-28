@@ -4,7 +4,7 @@
 
 ![React](https://img.shields.io/badge/React-18+-61DAFB?style=for-the-badge\&logo=react\&logoColor=black)
 ![Vite](https://img.shields.io/badge/Vite-7+-646CFF?style=for-the-badge\&logo=vite\&logoColor=white)
-![Tailwind CSS](https://img.shields.io/badge/Tailwind_CSS-3+-06B6D4?style=for-the-badge\&logo=tailwindcss\&logoColor=white)
+![CSS](https://img.shields.io/badge/CSS_CSS-3+-06B6D4?style=for-the-badge\&logo=CSSCSS\&logoColor=white)
 ![FastAPI](https://img.shields.io/badge/FastAPI-0.1+-009688?style=for-the-badge\&logo=fastapi\&logoColor=white)
 ![Python](https://img.shields.io/badge/Python-3.10+-3776AB?style=for-the-badge\&logo=python\&logoColor=white)
 ![MySQL](https://img.shields.io/badge/MySQL-8+-4479A1?style=for-the-badge\&logo=mysql\&logoColor=white)
@@ -32,7 +32,7 @@ The application provides dedicated experiences for **students and teachers**, wh
 * 🔄 Alembic database migrations
 * ✅ Pydantic request/response validation
 * ⚡ React + Vite frontend
-* 🎨 Tailwind CSS UI
+* 🎨 CSS UI
 * 🧪 Backend API testing with Pytest
 * 🐳 Docker Compose configuration
 * 📚 Interactive Swagger API documentation
@@ -604,7 +604,7 @@ Use the demo credentials listed above to verify the application.
 | ---------------- | ---------------------------------- |
 | **React**        | Component-based UI                 |
 | **Vite**         | Frontend development/build tooling |
-| **Tailwind CSS** | Responsive UI styling              |
+| ** CSS** | Responsive UI styling              |
 | **Recharts**     | Dashboard analytics and charts     |
 
 ## Backend
@@ -1354,7 +1354,7 @@ Python Full-Stack Developer
 ```text
 Python • FastAPI • Django • React • JavaScript
 MySQL • SQLAlchemy • REST APIs • JWT
-Tailwind CSS • Git • GitHub • Docker
+CSS • Git • GitHub • Docker
 ```
 
 ---
